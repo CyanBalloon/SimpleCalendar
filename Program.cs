@@ -14,6 +14,7 @@ namespace SimpleCalendar
         [STAThread]
         static void Main()
         {
+            MessageBox.Show("Second branch.");
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form_Main());
