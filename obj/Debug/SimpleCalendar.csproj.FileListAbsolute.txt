@@ -1,0 +1,11 @@
+c:\users\cyanballoon\documents\visual studio 2013\Projects\SimpleCalendar\SimpleCalendar\bin\Debug\SimpleCalendar.exe.config
+C:\Users\CyanBalloon\Dropbox\Calendar\C#\SimpleCalendar\SimpleCalendar\bin\Debug\SimpleCalendar.exe.config
+C:\Users\CyanBalloon\Dropbox\Calendar\C#\SimpleCalendar\SimpleCalendar\bin\Debug\SimpleCalendar.exe
+C:\Users\CyanBalloon\Dropbox\Calendar\C#\SimpleCalendar\SimpleCalendar\bin\Debug\SimpleCalendar.pdb
+C:\Users\CyanBalloon\Dropbox\Calendar\C#\SimpleCalendar\SimpleCalendar\obj\Debug\SimpleCalendar.csprojResolveAssemblyReference.cache
+C:\Users\CyanBalloon\Dropbox\Calendar\C#\SimpleCalendar\SimpleCalendar\obj\Debug\SimpleCalendar.Properties.Resources.resources
+C:\Users\CyanBalloon\Dropbox\Calendar\C#\SimpleCalendar\SimpleCalendar\obj\Debug\SimpleCalendar.csproj.GenerateResource.Cache
+C:\Users\CyanBalloon\Dropbox\Calendar\C#\SimpleCalendar\SimpleCalendar\obj\Debug\SimpleCalendar.exe
+C:\Users\CyanBalloon\Dropbox\Calendar\C#\SimpleCalendar\SimpleCalendar\obj\Debug\SimpleCalendar.pdb
+C:\Users\CyanBalloon\Dropbox\Calendar\C#\SimpleCalendar\SimpleCalendar\obj\Debug\SimpleCalendar.Form_Main.resources
+C:\Users\CyanBalloon\Dropbox\Calendar\C#\SimpleCalendar\SimpleCalendar\obj\Debug\SimpleCalendar.Form_AddItem.resources

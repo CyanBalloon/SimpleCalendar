@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="db_SC" Class="db_SCContextDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=(LocalDB)\v11.0;AttachDbFilename=C:\Users\CyanBalloon\Dropbox\SimpleCalendar\db_SC.mdf;Integrated Security=True;Connect Timeout=30" SettingsObjectName="SimpleCalendar.Properties.Settings" SettingsPropertyName="db_SCConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.tbItems" Member="tbItems">
+    <Type Name="tbItems">
+      <Column Name="ID_Item" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="date" Type="System.DateTime" DbType="Date NOT NULL" CanBeNull="false" />
+      <Column Name="description" Type="System.String" DbType="NVarChar(MAX) NOT NULL" CanBeNull="false" />
+      <Column Name="color" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+    </Type>
+  </Table>
+</Database>
