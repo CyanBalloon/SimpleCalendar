@@ -80,7 +80,7 @@ namespace SimpleCalendar
             }
             else
             {
-                lblDate.Text = _date.ToString("dddd, MMMM d") + " (" + daysFromNow.ToString() + " days)";
+                lblDate.Text = _date.ToString("MMMM d") + " (" + daysFromNow.ToString() + " days)";
             }
         }
 
